@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Json_Lab18</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titulo">JSON</string>
+    <string name="gerar">Gerar JSON</string>
+    <string name="recuperar">Ler JSON</string>
+</resources>
